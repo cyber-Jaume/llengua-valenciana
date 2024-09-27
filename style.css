@@ -99,3 +99,7 @@ footer {
     display: block;
     margin: 20px auto; /* Centra la imatge i afegeix espai al voltant */
 }
+#inici {
+    text-align: center;
+}
+    
